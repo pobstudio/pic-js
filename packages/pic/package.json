@@ -1,7 +1,7 @@
 {
   "name": "@hadronous/pic",
   "description": "An Internet Computer Protocol canister testing library for TypeScript and JavaScript.",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "author": "Hadronous Labs",
   "license": "Apache-2.0",
   "repository": "github:hadronous/pic-js",
