@@ -1,7 +1,5 @@
 ## Unreleased
 
-## 0.11.0 (2025-01-01)
-
 ### Feat
 
 - update dependencies
