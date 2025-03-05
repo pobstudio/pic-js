@@ -4,6 +4,10 @@
 
 - update dependencies
 
+### Fix
+
+- **pocket-ic-server.ts**: switch from --pid to --port-file for pic server
+
 ## 0.10.0 (2024-11-27)
 
 ### Feat
