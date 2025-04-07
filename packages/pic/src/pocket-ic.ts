@@ -112,6 +112,7 @@ export class PocketIc {
   ): Promise<PocketIc> {
     const client = await PocketIcClient.create(url, options);
 
+    console.log('A test', "Hello");
     return new PocketIc(client);
   }
 
